@@ -1,4 +1,6 @@
 # Percabangan
+# Menjawab joke programmer
+
 jumlah_botol_susu = 173
 jumlah_telur = 2500
 print(f"Jumlah Botol Susu {jumlah_botol_susu} botol")
@@ -18,3 +20,4 @@ print()
 
 print("Budi pulang ke rumah")
 print("Budi menyampaikan hasilnya ke Ibu")
+
